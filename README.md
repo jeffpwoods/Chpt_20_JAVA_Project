@@ -2,7 +2,7 @@
 
 Code used in Chpt 20 project
 
-RandomCapitolsQuiz.java is a robust program that reads in two files, a file with states and a file with the state capitols.
+RandomCapitolsQuiz.java is a robust program that reads in two files, a file with states and a file with the state capitols (both provided with text files in the repo).
 It then prompts the user to enter the captiol of a randomly selected state.
 
 
